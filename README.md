@@ -1,7 +1,7 @@
 # Hii, I'm Letícia Juliana 👩🏻‍💻  
 
 👩🏻‍🎓I'm a software engineering student at [UEPA](https://www.uepa.br/)  
-💭 Aspiring developer Beck-end...
+💭 Aspiring developer Beck-end...  
 📨 Contact: dev.rocha826@gmail.com  
 
 ### My programming language
