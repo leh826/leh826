@@ -2,7 +2,7 @@
 
 👩🏻‍🎓Sou graduanda de engenharia de software da [UEPA](https://www.uepa.br/)  
 💭 Sou aspirante a desenvolvedora Beck-end...  
-📨 Contato: dev.rocha826@gail.com  
+📨 Contato: dev.rocha826@gmail.com  
 
 ### Minhas Linguagens
 <div style="display: inline_block"><br>
