@@ -2,7 +2,7 @@
 
 👩🏻‍🎓I'm a software engineering student at [UEPA](https://www.uepa.br/)  
 💭 Aspiring developer Beck-end...  
-📨 Contact: dev.rocha826@gmail.com and [Linkedin](www.linkedin.com/in/leticia826souza)
+📨 Contact: dev.rocha826@gmail.com and [Linkedin](https://www.linkedin.com/in/leticia826souza/)
 
 # 
 ### My programming language
