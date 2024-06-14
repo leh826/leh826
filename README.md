@@ -4,7 +4,7 @@
 💭 Aspiring developer Beck-end...  
 📨 Contact: dev.rocha826@gmail.com and [Linkedin](https://www.linkedin.com/in/leticia826souza/)
 
- <div height="180em"><img  src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=neon&show_icons=true"></div> 
+ <div height="180em"><img  src="https://github-readme-stats.vercel.app/api?username=leh826&theme=neon&show_icons=true"></div> 
  
  #
 ### My programming language
