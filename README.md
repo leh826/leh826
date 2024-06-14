@@ -4,7 +4,9 @@
 💭 Aspiring developer Beck-end...  
 📨 Contact: dev.rocha826@gmail.com and [Linkedin](https://www.linkedin.com/in/leticia826souza/)
 
-# 
+ <div height="180em"><img  src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=neon&show_icons=true"></div> 
+ 
+ #
 ### My programming language
 <div style="display: inline_block"><br>
   <img aling="center" alt="Leh-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
