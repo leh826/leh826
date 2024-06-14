@@ -15,4 +15,4 @@
   #
 </div>
 
-![Snake animation](https://github.com/leh826/leh826/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Leh826/Leh826/blob/output/github-contribution-grid-snake.svg)
