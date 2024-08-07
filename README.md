@@ -1,5 +1,5 @@
 <h1 align="center">
-👋Seja bem-vida(o), sou Leticia Souza👩🏻‍💻 
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F71899&duration=4000&lines=Seja+bem-vido(a)!+👋;+Sou+Letícia+Juliana+👩🏻‍💻;+Howdy!+👋;+I'm+Letícia+Juliana+👩🏻‍💻;" />
 </h1> 
 
 ### Bio
