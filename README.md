@@ -3,7 +3,8 @@
 </h1> 
 
 ### Bio
-- 👩🏻‍🎓Universitária de engenharia de software pela [UEPA](https://www.uepa.br/)  
+- 👩🏻‍🎓Universitária de engenharia de software da [UEPA](https://www.uepa.br/)
+- 📚 Leitora de romances, fantasias e ficção científica. 
 - 📨 Contatos: dev.rocha826@gmail.com and [Linkedin](https://www.linkedin.com/in/leticia826souza/)
 ### Estatistica
  <div height="180em"><img  src="https://github-readme-stats.vercel.app/api?username=leh826&theme=neon&show_icons=true"></div> 
