@@ -17,12 +17,12 @@ Olá, sou Letícia Souza👋😃
 Estou em busca de novos desafios e oportunidades para crescer na área de tecnologia. Em Formação em engenharia de software. Atualmente, estou me aprofundando em escrever códigos mais modulares e reutilizáveis, criação de APIs RESTs, Infra e Cloud Computing. Tenho experiência com versionamento de código usando Git, garantindo um controle eficiente das alterações e colaboração em projetos. Além disso, estou familiarizada com bancos de dados, Relacioanais e não Relacionais, entendendo a importância de armazenar e gerenciar dados de maneira eficaz.
 
 ### Linguagens e Ferramentas 
-  - Linguagens : <br>
+  - #### Linguagens : <br>
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br>
-  - Ferramentas: <br>
+  - #### Ferramentas: <br>
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
