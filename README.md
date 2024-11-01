@@ -1,5 +1,5 @@
 <h1 align="center">
-Olá, sou Letícia Souza👋😃
+Olá, sou Letícia Souza👋
 </h1> 
 
 ### Bio 
