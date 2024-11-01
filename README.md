@@ -7,7 +7,10 @@ Olá, Sou Letícia Souza👋😃
 - 📚 Leitora de romances, fantasias e ficção científica. 
 - 📨 Contatos: dev.rocha826@gmail.com e [Linkedin](https://www.linkedin.com/in/leticia826souza/)
 ### Minhas Estatisticas
- <div height="180em"><img  src="https://github-readme-stats.vercel.app/api?username=leh826&theme=rose&show_icons=true"></div> 
+ <div>
+ <img width="50%" src="https://github-readme-stats.vercel.app/api?username=leh826&theme=rose&show_icons=true"/>
+ <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leh826&layout=compact&langs_count=7&theme=rose"/>
+ </div>
 
 ### Um Pouco Sobre mim
 <img src="https://img.shields.io/static/v1?label=Overview&message=leticia&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
