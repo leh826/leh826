@@ -5,7 +5,7 @@ Olá, sou Letícia Souza👋
 ### Bio 
 - 👩🏻‍🎓Universitária de engenharia de software da [UEPA](https://www.uepa.br/)
 - 📚 Leitora de romances, fantasias e ficção científica. 
-- 📨 Contatos: dev.rocha826@gmail.com e [Linkedin](https://www.linkedin.com/in/leticia826souza/)
+- 📨 Contatos: rochaleticia826@gmail.com e [Linkedin](https://www.linkedin.com/in/leticia826souza/)
 ### 📊 Minhas Estatisticas
  <div>
  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=leh826&theme=rose&show_icons=true"/>
