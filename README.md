@@ -65,7 +65,7 @@ Tenho 2 anos de experiência em tecnologia — passando por suporte, redes e pro
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leh826&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=leh826&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
